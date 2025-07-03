@@ -8,7 +8,7 @@ class Cliente {
         }
         this.nombre = nombre;
         this.cedula = cedula;
-        this.cuentas = null; //cada cliente puede tener una cuenta bancaria
+        this.cuenta = null; //cada cliente puede tener una cuenta bancaria
     }
 
     asignarCuenta(cuenta){
