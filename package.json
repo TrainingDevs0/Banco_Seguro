@@ -6,7 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Roberto Espinoza",
   "license": "ISC",
-  "description": ""
+  "description": "Hola, esto es una prueba.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrainingDevs0/Banco_Seguro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrainingDevs0/Banco_Seguro/issues"
+  },
+  "homepage": "https://github.com/TrainingDevs0/Banco_Seguro#readme"
 }
