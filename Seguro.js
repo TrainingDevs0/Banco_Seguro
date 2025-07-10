@@ -14,5 +14,3 @@ class Seguro {
     }   
 }
 export default Seguro;
-
-export defalt Seguro2;
